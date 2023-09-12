@@ -51,7 +51,7 @@ void print(Node* head){
 
 int main(){
     int n,data;
-    Node* head=nullptr;
+    Node* head=NULL;
     cin >> n;
     for (int i=0;i<n;i++) {
         cin >> data;
